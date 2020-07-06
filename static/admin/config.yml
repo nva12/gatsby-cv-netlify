@@ -17,10 +17,10 @@ collections:
     label: "Experience"
     folder: "content/experience"
     create: true
+    title: "{{position}}-{{company}}"
     slug: "index"
     media_folder: ""
     public_folder: ""
-    path: "{{title}}/index"
     editor:
       preview: false
     fields:
